@@ -24,7 +24,7 @@ tid3 = "09:41"
 hum1 = 80
 hum2 = 85
 
-#tesatarat
+#tesataratgjf
 
 tider = [tid1, tid2, tid3]
 
